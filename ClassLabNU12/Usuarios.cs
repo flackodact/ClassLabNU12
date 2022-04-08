@@ -6,42 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLabNU12
 {
-    public class Produto
+    internal class Usuarios
     {
-
     }
-
-      public Produto (string descrição,int valor )
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

@@ -12,12 +12,13 @@ namespace ClassLabNU12
 
         //atributos
         private int id;
-        private string nome;
-        private string cpf; 
-        private string produto; 
+        private double descricao;
+        private string codBar;
+        private double valor;
+        private double desconto;
+        
+        
 
-    
-    
     
     
     
